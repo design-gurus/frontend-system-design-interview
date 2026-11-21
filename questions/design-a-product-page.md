@@ -63,3 +63,4 @@ The selected variant belongs in the URL, for example `?color=blue&size=m`. The p
 
 - [Grokking the Modern Frontend System Design Interview](https://www.designgurus.io/course/grokking-the-modern-frontend-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=questions-design-a-product-page) uses an online grocery store as its running example and includes a full store checkout case study.
 - Related pages: [rendering strategies](../concepts/rendering-strategies.md), [performance and Core Web Vitals](../concepts/performance-and-core-web-vitals.md).
+- Free article: [Design a Scalable E-Commerce Platform](https://www.designgurus.io/blog/design-scalable-e-commerce-platform?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=questions-design-a-product-page), the backend services that a product page calls.

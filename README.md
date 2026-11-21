@@ -100,6 +100,16 @@ The design should not depend on one library. Name the concept first (a server st
 
 About four weeks at six hours a week is enough for an engineer who already builds web applications daily. The [four-week plan](cheat-sheets/four-week-plan.md) splits that time across concepts, walkthroughs, and timed practice.
 
+## Free reading on DesignGurus.io
+
+- [Frontend System Design Interview: What It Asks and How to Answer It](https://www.designgurus.io/blog/frontend-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=readme): a longer overview of the round and how to answer it.
+- [What Is the System Design Interview Like for Frontend Engineers?](https://www.designgurus.io/answers/detail/what-is-the-system-design-interview-like-for-frontend-engineers?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=readme): a short description of the format and the scoring.
+- [OpenAI Frontend Engineer Interview: Rounds, Questions, and How to Prepare](https://www.designgurus.io/blog/openai-frontend-engineer-interview?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=readme): one company's frontend loop, round by round.
+- [How to Design a Real-Time Chat Application](https://www.designgurus.io/blog/design-chat-application?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=readme): the backend side of the chat question.
+- [How to Design a Real-Time Collaborative Document Editor](https://www.designgurus.io/blog/design-real-time-editor?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=readme): the full system behind a collaborative editor.
+- [How to Design a Social Media News Feed](https://www.designgurus.io/blog/design-social-media-news-feed?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=readme): the backend side of the news feed question.
+- [What Is Polling vs Long-Polling vs Webhooks?](https://www.designgurus.io/answers/detail/what-is-polling-vs-long-polling-vs-webhooks?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=readme): a comparison of delivery methods for live updates.
+
 ## Go deeper
 
 This repository stays at the level of approach and trade-offs. The full course teaches every topic here with diagrams, measured examples, complete case studies, and quizzes.
