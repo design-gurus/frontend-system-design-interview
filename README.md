@@ -132,6 +132,8 @@ This repository stays at the level of approach and trade-offs. The full course t
 
 Related free repositories: [Grokking System Design](https://github.com/design-gurus/grokking-system-design) for the backend round, and [API Design Interview](https://github.com/design-gurus/api-design-interview) for the interface step.
 
+For the system design round, see [Grokking System Design](https://github.com/design-gurus/grokking-system-design), the free companion guide with 30 patterns, 59 question walkthroughs, and 35 cheat sheets.
+
 ## Contributing
 
 Corrections and new questions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
