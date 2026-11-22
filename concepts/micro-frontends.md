@@ -60,4 +60,5 @@ The teams now release daily. The cost is measurable: the first load grows by abo
 ## Go deeper
 
 - [Grokking the Modern Frontend System Design Interview](https://www.designgurus.io/course/grokking-the-modern-frontend-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=concepts-micro-frontends) has a chapter on architecture at scale: design systems, micro-frontends, monorepos, feature flags, and server-driven UI.
+- Lesson: [Micro Frontends and Monorepos](https://www.designgurus.io/course-play/grokking-the-modern-frontend-system-design-interview/doc/micro-frontends-and-monorepos?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=concepts-micro-frontends), in Grokking the Modern Frontend System Design Interview
 - [Component API design](component-api-design.md) covers the shared component contract.

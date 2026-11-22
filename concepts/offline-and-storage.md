@@ -62,4 +62,6 @@ A field inspection app is used in basements with no signal. An inspector complet
 ## Go deeper
 
 - [Grokking the Modern Frontend System Design Interview](https://www.designgurus.io/course/grokking-the-modern-frontend-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=concepts-offline-and-storage) covers browser storage, offline-first sync, and merging concurrent edits.
+- Lesson: [Storage in the Browser](https://www.designgurus.io/course-play/grokking-the-modern-frontend-system-design-interview/doc/storage-in-the-browser?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=concepts-offline-and-storage), in Grokking the Modern Frontend System Design Interview
+- Lesson: [Offline First and Sync](https://www.designgurus.io/course-play/grokking-the-modern-frontend-system-design-interview/doc/offline-first-and-sync?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=concepts-offline-and-storage), in Grokking the Modern Frontend System Design Interview
 - [Security](security.md) explains the token storage decision.

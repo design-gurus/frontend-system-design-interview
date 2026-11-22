@@ -69,6 +69,7 @@ Native controls are accessible but hard to style, so most products build their o
 ## Go deeper
 
 - [Grokking the Modern Frontend System Design Interview](https://www.designgurus.io/course/grokking-the-modern-frontend-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=questions-design-a-video-player) has a complete video streaming site case study.
+- Lesson: [Design a Video Streaming Site](https://www.designgurus.io/course-play/grokking-the-modern-frontend-system-design-interview/doc/design-a-video-streaming-site?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=questions-design-a-video-player), in Grokking the Modern Frontend System Design Interview
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=questions-design-a-video-player) covers the encoding and delivery backend.
 - Related pages: [accessibility](../concepts/accessibility.md), [performance and Core Web Vitals](../concepts/performance-and-core-web-vitals.md).
 - Free article: [Designing a Scalable Video Streaming Platform Like YouTube and Netflix](https://www.designgurus.io/blog/design-video-streaming-platform?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=questions-design-a-video-player), the encoding and delivery system behind the player.

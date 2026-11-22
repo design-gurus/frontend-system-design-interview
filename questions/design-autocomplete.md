@@ -72,5 +72,6 @@ Focus stays in the input throughout. `aria-activedescendant` tells the screen re
 ## Go deeper
 
 - [Grokking the Modern Frontend System Design Interview](https://www.designgurus.io/course/grokking-the-modern-frontend-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=questions-design-autocomplete) designs the autocomplete in full, with the complete props table and accessibility markup.
+- Lesson: [Design an Autocomplete](https://www.designgurus.io/course-play/grokking-the-modern-frontend-system-design-interview/doc/design-an-autocomplete?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=questions-design-autocomplete), in Grokking the Modern Frontend System Design Interview
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=questions-design-autocomplete) covers the typeahead backend.
 - Related pages: [component API design](../concepts/component-api-design.md), [accessibility](../concepts/accessibility.md).

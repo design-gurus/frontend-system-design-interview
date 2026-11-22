@@ -56,4 +56,6 @@ An autocomplete returns 8 suggestions. A sighted mouse user sees them appear. A 
 ## Go deeper
 
 - [Grokking the Modern Frontend System Design Interview](https://www.designgurus.io/course/grokking-the-modern-frontend-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=concepts-accessibility) teaches accessibility as a design input and builds an accessible modal, dropdown, and autocomplete.
+- Lesson: [Accessibility by Design](https://www.designgurus.io/course-play/grokking-the-modern-frontend-system-design-interview/doc/accessibility-by-design?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=concepts-accessibility), in Grokking the Modern Frontend System Design Interview
+- Lesson: [Design an Accessible Modal and Dropdown](https://www.designgurus.io/course-play/grokking-the-modern-frontend-system-design-interview/doc/design-an-accessible-modal-and-dropdown?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=concepts-accessibility), in Grokking the Modern Frontend System Design Interview
 - [Component API design](component-api-design.md) shows how accessible behavior becomes part of a component contract.

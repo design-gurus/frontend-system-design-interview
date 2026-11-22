@@ -60,6 +60,7 @@ An order tracking page shows the courier on a map. The position changes every 5 
 ## Go deeper
 
 - [Grokking the Modern Frontend System Design Interview](https://www.designgurus.io/course/grokking-the-modern-frontend-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=concepts-real-time-updates) compares the three transports with measurements and uses them in the chat, dashboard, and ride tracking case studies.
+- Lesson: [Polling, Server Sent Events, and WebSockets](https://www.designgurus.io/course-play/grokking-the-modern-frontend-system-design-interview/doc/polling-server-sent-events-and-websockets?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=concepts-real-time-updates), in Grokking the Modern Frontend System Design Interview
 - [Design a chat app](../questions/design-a-chat-app.md) and [design a real-time dashboard](../questions/design-a-real-time-dashboard.md) apply this page.
 - Free answer: [What Is Polling vs Long-Polling vs Webhooks?](https://www.designgurus.io/answers/detail/what-is-polling-vs-long-polling-vs-webhooks?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=concepts-real-time-updates), a comparison of three delivery methods.
 - Free answer: [What Is HTTP Long Polling?](https://www.designgurus.io/answers/detail/what-is-http-long-polling?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=concepts-real-time-updates), a closer look at one of them.

@@ -62,4 +62,6 @@ Fewer than six confirmed items means the answer needs another attempt on the sam
 ## Go deeper
 
 - [Grokking the Modern Frontend System Design Interview](https://www.designgurus.io/course/grokking-the-modern-frontend-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=cheat-sheets-common-mistakes) grades three answers to one question side by side, and shows how expectations differ by level.
+- Lesson: [Grading Three Answers to One Question](https://www.designgurus.io/course-play/grokking-the-modern-frontend-system-design-interview/doc/grading-three-answers-to-one-question?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=cheat-sheets-common-mistakes), in Grokking the Modern Frontend System Design Interview
+- Lesson: [How Answers Differ by Level](https://www.designgurus.io/course-play/grokking-the-modern-frontend-system-design-interview/doc/how-answers-differ-by-level?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=cheat-sheets-common-mistakes), in Grokking the Modern Frontend System Design Interview
 - [The framework](../framework.md) gives the time budget that prevents mistakes 1, 9, and 10.

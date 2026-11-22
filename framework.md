@@ -69,6 +69,9 @@ For "design autocomplete", a strong first five minutes sounds like this: up to 1
 ## Go deeper
 
 - [Grokking the Modern Frontend System Design Interview](https://www.designgurus.io/course/grokking-the-modern-frontend-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=framework) teaches the five steps on a full example and applies them to complete case studies.
+- Lesson: [A Method for Any Frontend Design](https://www.designgurus.io/course-play/grokking-the-modern-frontend-system-design-interview/doc/a-method-for-any-frontend-design?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=framework), in Grokking the Modern Frontend System Design Interview
+- Lesson: [Requirements for a Frontend Design](https://www.designgurus.io/course-play/grokking-the-modern-frontend-system-design-interview/doc/requirements-for-a-frontend-design?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=framework), in Grokking the Modern Frontend System Design Interview
+- Lesson: [Running the 45 Minutes](https://www.designgurus.io/course-play/grokking-the-modern-frontend-system-design-interview/doc/running-the-45-minutes?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=framework), in Grokking the Modern Frontend System Design Interview
 - [Common mistakes](cheat-sheets/common-mistakes.md) lists what goes wrong at each step.
 - [Design autocomplete](questions/design-autocomplete.md) applies the method to one question.
 - Free article: [Frontend System Design Interview: What It Asks and How to Answer It](https://www.designgurus.io/blog/frontend-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=frontend-system-design-interview&utm_content=framework), a longer overview of the round.
